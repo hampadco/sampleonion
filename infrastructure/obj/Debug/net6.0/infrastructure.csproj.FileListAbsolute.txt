@@ -1,0 +1,17 @@
+C:\Users\apple\Desktop\sample\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\apple\Desktop\sample\infrastructure\bin\Debug\net6.0\infrastructure.runtimeconfig.json
+C:\Users\apple\Desktop\sample\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\apple\Desktop\sample\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.genruntimeconfig.cache
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\apple\Desktop\sample\infrastructure\bin\Debug\net6.0\core.dll
+C:\Users\apple\Desktop\sample\infrastructure\bin\Debug\net6.0\core.pdb
+C:\Users\apple\Desktop\sample\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete

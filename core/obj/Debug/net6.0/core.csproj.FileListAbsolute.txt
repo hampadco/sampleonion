@@ -1,0 +1,12 @@
+C:\Users\apple\Desktop\sample\core\bin\Debug\net6.0\core.deps.json
+C:\Users\apple\Desktop\sample\core\bin\Debug\net6.0\core.dll
+C:\Users\apple\Desktop\sample\core\bin\Debug\net6.0\core.pdb
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\core.csproj.AssemblyReference.cache
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\core.AssemblyInfoInputs.cache
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\core.AssemblyInfo.cs
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\core.csproj.CoreCompileInputs.cache
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\core.dll
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\refint\core.dll
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\core.pdb
+C:\Users\apple\Desktop\sample\core\obj\Debug\net6.0\ref\core.dll
